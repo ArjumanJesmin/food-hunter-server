@@ -11,7 +11,7 @@
             {
                 "id": 1,
                 "name": "Penne alla Vodka",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/premium-photo/spaghetti-dish-wooden-background_45583-1175.jpg?w=740",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -34,7 +34,7 @@
             {
                 "id": 2,
                 "name": "Osso Buco",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/premium-photo/deep-fried-shrimp-cake-white-plate-thai-food_45583-1817.jpg?w=740",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -57,7 +57,7 @@
             {
                 "id": 3,
                 "name": "Tiramisu",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/premium-photo/sandwich-with-ham-vegetables-wooden-table_45583-1808.jpg?w=740",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -91,7 +91,7 @@
             {
                 "id": 1,
                 "name": "Penne alla Vodka",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/premium-photo/hot-pan-crispy-fried-oyster-omelette-served-with-bean-sprout-spicy-sauce_45583-1764.jpg?w=740",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -114,7 +114,7 @@
             {
                 "id": 2,
                 "name": "Osso Buco",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/free-photo/high-angle-arrangement-noodles-bowl_23-2148803825.jpg?w=740&t=st=1683135325~exp=1683135925~hmac=79fb55c44461dc1a52314b03c21acf3065d920f3396cacfa0ad9f25d02c5f691",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -137,7 +137,7 @@
             {
                 "id": 3,
                 "name": "Tiramisu",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/premium-photo/hot-pan-crispy-fried-oyster-omelette-served-with-bean-sprout-spicy-sauce_45583-1764.jpg?w=740",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -165,13 +165,13 @@
         "name": "David Kim",
         "description": "David is a Korean-American chef who combines traditional Korean flavors with modern cooking techniques. His dishes are always exciting and full of flavor.",
         "like": 2500,
-        "recipes": 100,
+        "recipes_number": 100,
         "years_of_experience": 10,
         "recipes": [
             {
                 "id": 1,
                 "name": "Penne alla Vodka",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/premium-photo/mushroom-pasta-with-cheese-dark-blue-space_147689-354.jpg?w=740",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -194,7 +194,7 @@
             {
                 "id": 2,
                 "name": "Osso Buco",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/free-photo/high-angle-arrangement-noodles-bowl_23-2148803825.jpg?w=740&t=st=1683135325~exp=1683135925~hmac=79fb55c44461dc1a52314b03c21acf3065d920f3396cacfa0ad9f25d02c5f691",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -217,7 +217,7 @@
             {
                 "id": 3,
                 "name": "Tiramisu",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/premium-photo/mushroom-pasta-with-cheese-dark-blue-space_147689-354.jpg?w=740",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -251,7 +251,7 @@
             {
                 "id": 1,
                 "name": "Penne alla Vodka",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/free-photo/high-angle-arrangement-noodles-bowl_23-2148803825.jpg?w=740&t=st=1683135325~exp=1683135925~hmac=79fb55c44461dc1a52314b03c21acf3065d920f3396cacfa0ad9f25d02c5f691",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -274,7 +274,7 @@
             {
                 "id": 2,
                 "name": "Osso Buco",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/free-photo/arrangement-noodles-table_23-2148803870.jpg?w=900&t=st=1683135238~exp=1683135838~hmac=bfdfb629c3d1f23fddff916cabebb2f080093d632c5b6c88b615c79c7e38a4f3",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -297,7 +297,7 @@
             {
                 "id": 3,
                 "name": "Tiramisu",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/premium-photo/mushroom-pasta-with-cheese-dark-blue-space_147689-354.jpg?w=740",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -340,7 +340,7 @@
             {
                 "id": 1,
                 "name": "Penne alla Vodka",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/free-photo/arrangement-noodles-table_23-2148803870.jpg?w=900&t=st=1683135238~exp=1683135838~hmac=bfdfb629c3d1f23fddff916cabebb2f080093d632c5b6c88b615c79c7e38a4f3",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -363,7 +363,7 @@
             {
                 "id": 2,
                 "name": "Osso Buco",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/free-photo/high-angle-arrangement-noodles-bowl_23-2148803825.jpg?w=740&t=st=1683135325~exp=1683135925~hmac=79fb55c44461dc1a52314b03c21acf3065d920f3396cacfa0ad9f25d02c5f691",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
@@ -386,7 +386,7 @@
             {
                 "id": 3,
                 "name": "Tiramisu",
-                "img": "https://img.freepik.com/free-photo",
+                "img": "https://img.freepik.com/free-photo/arrangement-noodles-table_23-2148803870.jpg?w=900&t=st=1683135238~exp=1683135838~hmac=bfdfb629c3d1f23fddff916cabebb2f080093d632c5b6c88b615c79c7e38a4f3",
                 "ingredients": [
                     "1 pound penne pasta",
                     "1/4 cup olive oil",
