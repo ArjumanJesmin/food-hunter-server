@@ -5,8 +5,79 @@
         "name": "John Smith",
         "description": "John is a passionate chef who loves to experiment with different ingredients and cooking techniques. His dishes are always surprising and delightful.",
         "like": 3000,
-        "recipes": 150,
-        "years_of_experience": 12
+        "recipes_number": 150,
+        "years_of_experience": 12,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Penne alla Vodka",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "id": 2,
+                "name": "Osso Buco",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.3,
+                "favorite": false
+            },
+            {
+                "id": 3,
+                "name": "Tiramisu",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
     },
     {
         "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=740&t=st=1683017504~exp=1683018104~hmac=5041ef7432d4b61443be39d1f6744ca8adfff71291a37177ab9824e18e207053",
@@ -14,8 +85,79 @@
         "name": "Sarah Lee",
         "description": "Sarah is a creative chef who loves to create dishes that are both beautiful and delicious. She is always pushing the boundaries of traditional cooking.",
         "like": 4000,
-        "recipes": 200,
-        "years_of_experience": 15
+        "recipes_number": 200,
+        "years_of_experience": 15,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Penne alla Vodka",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "id": 2,
+                "name": "Osso Buco",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.3,
+                "favorite": false
+            },
+            {
+                "id": 3,
+                "name": "Tiramisu",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
     },
     {
         "image": "https://img.freepik.com/premium-photo/happy-male-indian-chef-pointing-with-his-hands-grey-wall_156779-279.jpg?w=740",
@@ -24,7 +166,78 @@
         "description": "David is a Korean-American chef who combines traditional Korean flavors with modern cooking techniques. His dishes are always exciting and full of flavor.",
         "like": 2500,
         "recipes": 100,
-        "years_of_experience": 10
+        "years_of_experience": 10,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Penne alla Vodka",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "id": 2,
+                "name": "Osso Buco",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.3,
+                "favorite": false
+            },
+            {
+                "id": 3,
+                "name": "Tiramisu",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
     },
     {
         "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683017452~exp=1683018052~hmac=13141570ca1c5c9dcbde9b17b3742ce6e61b097d4b1ec388b3a980c0b96d0b24",
@@ -32,8 +245,79 @@
         "name": "Maria Rodriguez",
         "description": "Maria is a Mexican chef who is passionate about traditional Mexican cooking. Her dishes are always full of bold flavors and spices.",
         "like": 3500,
-        "recipes": 120,
-        "years_of_experience": 8
+        "recipes_number": 120,
+        "years_of_experience": 8,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Penne alla Vodka",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "id": 2,
+                "name": "Osso Buco",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.3,
+                "favorite": false
+            },
+            {
+                "id": 3,
+                "name": "Tiramisu",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
     },
     {
         "image": "https://img.freepik.com/free-photo/smiling-chef-recommended-main-course_329181-712.jpg?w=740&t=st=1683017674~exp=1683018274~hmac=5c52589e7b7a718e0c82afbe187c1771487f0fe752babd539016a0d9011abe1d",
@@ -41,7 +325,7 @@
         "name": "Michael Chen",
         "description": "Michael is a Chinese-American chef who creates dishes that are inspired by his travels and experiences. He loves to experiment with different flavors and ingredients.",
         "like": 2800,
-        "recipes": 90,
+        "recipes_number": 90,
         "years_of_experience": 11
     },
     {
@@ -50,7 +334,78 @@
         "name": "Tom Jones",
         "description": "Tom is a versatile chef who has a talent for creating dishes that are both comforting and inventive. He is always experimenting with new techniques and ingredients.",
         "like": 3200,
-        "recipes": 130,
-        "years_of_experience": 9
+        "recipes_number": 130,
+        "years_of_experience": 9,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Penne alla Vodka",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.2,
+                "favorite": false
+            },
+            {
+                "id": 2,
+                "name": "Osso Buco",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.3,
+                "favorite": false
+            },
+            {
+                "id": 3,
+                "name": "Tiramisu",
+                "img": "https://img.freepik.com/free-photo",
+                "ingredients": [
+                    "1 pound penne pasta",
+                    "1/4 cup olive oil",
+                    "1/4 cup grated Parmesan cheese",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste"
+                ],
+                "method": [
+                    "Cook the pasta in a large pot of boiling salted water until al dente.",
+                    "Meanwhile, heat the olive oil in a large skillet over medium heat.",
+                    "Simmer for 10 minutes, stirring occasionally, until the sauce thickens.",
+                    "Season with salt and black pepper, to taste.",
+                    "Drain the pasta and add it to the sauce.",
+                    "Toss to coat the pasta in the sauce.",
+                    "Serve hot with additional Parmesan cheese, if desired."
+                ],
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
     }
 ]
