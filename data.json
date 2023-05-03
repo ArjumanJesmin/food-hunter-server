@@ -1,0 +1,56 @@
+[
+    {
+        "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683017452~exp=1683018052~hmac=13141570ca1c5c9dcbde9b17b3742ce6e61b097d4b1ec388b3a980c0b96d0b24",
+        "id": 1,
+        "name": "John Smith",
+        "description": "John is a passionate chef who loves to experiment with different ingredients and cooking techniques. His dishes are always surprising and delightful.",
+        "like": 3000,
+        "recipes": 150,
+        "years_of_experience": 12
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=740&t=st=1683017504~exp=1683018104~hmac=5041ef7432d4b61443be39d1f6744ca8adfff71291a37177ab9824e18e207053",
+        "id": 2,
+        "name": "Sarah Lee",
+        "description": "Sarah is a creative chef who loves to create dishes that are both beautiful and delicious. She is always pushing the boundaries of traditional cooking.",
+        "like": 4000,
+        "recipes": 200,
+        "years_of_experience": 15
+    },
+    {
+        "image": "https://img.freepik.com/premium-photo/happy-male-indian-chef-pointing-with-his-hands-grey-wall_156779-279.jpg?w=740",
+        "id": 3,
+        "name": "David Kim",
+        "description": "David is a Korean-American chef who combines traditional Korean flavors with modern cooking techniques. His dishes are always exciting and full of flavor.",
+        "like": 2500,
+        "recipes": 100,
+        "years_of_experience": 10
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683017452~exp=1683018052~hmac=13141570ca1c5c9dcbde9b17b3742ce6e61b097d4b1ec388b3a980c0b96d0b24",
+        "id": 4,
+        "name": "Maria Rodriguez",
+        "description": "Maria is a Mexican chef who is passionate about traditional Mexican cooking. Her dishes are always full of bold flavors and spices.",
+        "like": 3500,
+        "recipes": 120,
+        "years_of_experience": 8
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/smiling-chef-recommended-main-course_329181-712.jpg?w=740&t=st=1683017674~exp=1683018274~hmac=5c52589e7b7a718e0c82afbe187c1771487f0fe752babd539016a0d9011abe1d",
+        "id": 5,
+        "name": "Michael Chen",
+        "description": "Michael is a Chinese-American chef who creates dishes that are inspired by his travels and experiences. He loves to experiment with different flavors and ingredients.",
+        "like": 2800,
+        "recipes": 90,
+        "years_of_experience": 11
+    },
+    {
+        "image": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-holding-black-pan-white-wall_140725-59203.jpg?w=740&t=st=1683017706~exp=1683018306~hmac=e89a71cbf6c408acec0cccac0ed1f22c2673b00f6c82aeb23e78654cfb1c099b",
+        "id": 6,
+        "name": "Tom Jones",
+        "description": "Tom is a versatile chef who has a talent for creating dishes that are both comforting and inventive. He is always experimenting with new techniques and ingredients.",
+        "like": 3200,
+        "recipes": 130,
+        "years_of_experience": 9
+    }
+]
